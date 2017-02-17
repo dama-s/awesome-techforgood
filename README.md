@@ -118,6 +118,7 @@ A selection of projects, organisations and useful tools for social-impact tech. 
 - [Tech for Good Manchester] (http://www.meetup.com/Tech-for-Good-Manchester/), UK
 - [Tech4Good Sheffield] (http://shefftech4good.org/), UK
 - [Tech for Good Cambridge] (http://www.meetup.com/Cambridge-Tech-For-Good-Meetup/), UK
+- [ICT4D LDN] (https://www.meetup.com/London-ICT4D/),London, UK
 
 ### Events
 - [NetHope Global Summit] (http://www.nethopeglobalsummit.org/), Atlanta, GA, 7-11 November 2016
